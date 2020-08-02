@@ -1,22 +1,6 @@
 # Hasura GraphQL Engine on Heroku
 
-[![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine.svg?style=social&label=Star)](https://github.com/hasura/graphql-engine) 
-<a href="https://discord.gg/vBPpJkS"><img src="https://img.shields.io/badge/chat-discord-brightgreen.svg?logo=discord&style=flat"></a>
-<a href="https://twitter.com/intent/follow?screen_name=HasuraHQ"><img src="https://img.shields.io/badge/Follow-HasuraHQ-blue.svg?style=flat&logo=twitter"></a>
-<a href="https://eepurl.com/dBUfJ5"><img src="https://img.shields.io/badge/newsletter-subscribe-yellow.svg?style=flat"></a>
-
-Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you :zap: **instant,
-realtime GraphQL APIs over Postgres**, with [**webhook
-triggers**](https://github.com/hasura/graphql-engine/blob/master/event-triggers.md)
-on database events for asynchronous business logic.
-
-Hasura helps you build GraphQL apps backed by Postgres or incrementally move to
-GraphQL for existing applications using Postgres. 
-
-Deploy Hasura GraphQL Engine on Heroku and get a GraphQL endpoint in under 30 seconds :clock1:
-
-Read more at [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.io). 
-
+Remake bouton deploy on heroku
 
 ## Quickstart
 
@@ -24,7 +8,7 @@ Read more at [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.i
 Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postgres:
 
 [![Deploy to
-Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Patanouque/graphql-engine-heroku)
 
 ![Create New App - Heroku](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/create_new_app_heroku_3.png)
 
