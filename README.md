@@ -5,6 +5,8 @@ Remake bouton deploy on heroku
 ## Quickstart
 
 ### 1. Deploy to Heroku 
+
+Les détails de l'app sont dans app.json et heroku.yml
 Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postgres:
 
 [![Deploy to
