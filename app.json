@@ -1,5 +1,5 @@
 {
-  "name": "Setup hazura pour heroku",
+  "name": "Setup hasura pour heroku",
   "description": "Lance un docker file avec un setup qui installe hasura et postgres",
   "logo": "https://storage.googleapis.com/hasura-graphql-engine/console/assets/favicon.png",
   "keywords": [
